@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeyad</h1>
-<h3 align="center">I’m currently learning Backend Engieering</h3>
+<h3 align="center">I am a Software Engineer 🚀</h3>
 
 <p align="left"> <a href="https://twitter.com/zeyadmousa_" target="blank"><img src="https://img.shields.io/twitter/follow/zeyadmousa_?logo=twitter&style=for-the-badge" alt="zeyadmousa_" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, with(js and ts)**
+- 🌱 I’m currently learning **Backend Development with NodeJs, ExpressJs (js and ts)**
 
 - 💬 Ask me about **computer scinece skills and backend topics**
 
